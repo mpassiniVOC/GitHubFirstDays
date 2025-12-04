@@ -1,6 +1,5 @@
 import random
 
-
 def roll_dice():
     """Simulate rolling two dice."""
     die1 = random.randint(1, 6)
